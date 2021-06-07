@@ -1,1 +1,0 @@
-{"localhost":"m1","kyoko.localhost":"m2","ykko.localhost":"m3","kyoko2.localhost":"m2"}
