@@ -1,0 +1,1 @@
+[2021-06-07 06:22:55] [class-ss-plugin.php:258] Received request to start generating a static archive
